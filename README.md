@@ -25,6 +25,6 @@ una aplicación que permite calcular su huella de carbono diaria, ofreciendo rec
 
 ## configruacion he intalacion 
 1. clonar o descargar el repositorio ''' https://github.com/joburbanop/Huella_de_carbono ''''
-2. crear entornos virtuales con la documentación  de flask
+2. crear entornos virtuales con la documentación  de flask ''' https://flask.palletsprojects.com/en/3.0.x/installation/ ''' 
 3. intalar python, flask
    
